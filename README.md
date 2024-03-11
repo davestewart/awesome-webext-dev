@@ -65,6 +65,7 @@ Shadow DOM
 
 - [shadow-dom-in-depth](https://github.com/praveenpuglia/shadow-dom-in-depth) - Everything you need to know about Shadow DOM
 - [lit](https://github.com/lit/lit) - simple library for building fast, lightweight web components
+- [Shoelace](https://shoelace.style/)
 
 DOM
 
